@@ -1,0 +1,77 @@
+{
+  "families": [
+    {
+      "childRefs": [
+        {
+          "ref": "I2*211a389d-1b9c-4f18-877a-0d7dc093d510*8468262b-f231-4218-8ecb-6397b49919af"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1*51fec778-85a8-4a62-b8d1-aaec5743bca5*bc8b5860-b9db-4f16-ac92-d25d3e0429f6"
+        }
+      ],
+      "id": "F1*65f749d5-4e4d-4aa4-ad38-19c2c8c2507c*50c8aaed-f2ab-4d97-ace3-3c9800b8feb7"
+    }
+  ],
+  "head": {
+    "charset": {
+      "value": "UTF-8"
+    },
+    "date": {
+      "time": "20:41:57",
+      "value": "20 MAY 2024"
+    },
+    "file": "Delete me.ged",
+    "gedc": {
+      "form": "LINEAGE-LINKED",
+      "vers": "5.5.1"
+    },
+    "lang": "Indonesian",
+    "sour": {
+      "name": "Tarombo",
+      "value": "TAROMBO",
+      "vers": "0.5.0 (d35ae1b)"
+    }
+  },
+  "people": [
+    {
+      "fams": [
+        {
+          "ref": "F1*65f749d5-4e4d-4aa4-ad38-19c2c8c2507c*50c8aaed-f2ab-4d97-ace3-3c9800b8feb7"
+        }
+      ],
+      "id": "I1*51fec778-85a8-4a62-b8d1-aaec5743bca5*bc8b5860-b9db-4f16-ac92-d25d3e0429f6",
+      "names": [
+        {
+          "value": "Father //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F1*65f749d5-4e4d-4aa4-ad38-19c2c8c2507c*50c8aaed-f2ab-4d97-ace3-3c9800b8feb7"
+        }
+      ],
+      "id": "I2*211a389d-1b9c-4f18-877a-0d7dc093d510*8468262b-f231-4218-8ecb-6397b49919af",
+      "names": [
+        {
+          "value": "Child 1 //"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    }
+  ]
+}
